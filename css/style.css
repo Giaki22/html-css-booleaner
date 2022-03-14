@@ -1,8 +1,20 @@
+body{
+    margin: 0%;
+}
 header{
     background-color: #4A96EE;
     background-image: url(../imgs/pattern.png);
     height: 100px;
     background-size: 400px;
+    width: 100%;
+}
+main{
+    margin-left: 10px;
+}
+#logo{
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 5px;
 }
 .the{
     font-size: 13px;
@@ -28,6 +40,7 @@ header{
 }
 h1{
     margin-bottom: 5px;
+    font-weight: bolder;
 }
 #pics{
     margin: 0%;
@@ -49,6 +62,7 @@ thead{
 footer{
     color: grey;
     font-weight: bold;
+    margin-left:10px;
 }
 #interessi1{
     margin-top: 10px;
