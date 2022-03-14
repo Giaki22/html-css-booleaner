@@ -1,10 +1,10 @@
-body{
-    font-family: 'Bitter', serif;
-    font-family: 'PT Sans', sans-serif;
-}
 header{
     background-color: #4A96EE;
     background-image: url(../imgs/pattern.png);
     height: 100px;
     background-size: 400px;
+    color: white;
+    font-family: 'Bitter', serif;
+    font-family: 'PT Sans', sans-serif;
+    text-shadow: 2px 2px 5px black;
 }
