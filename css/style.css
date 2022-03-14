@@ -4,12 +4,6 @@ header{
     height: 100px;
     background-size: 400px;
 }
-.text{
-    font-family: 'Bitter', serif;
-    font-family: 'PT Sans', sans-serif;
-    color: white;
-    text-shadow: 2px 2px 5px black;
-}
 .the{
     font-size: 13px;
     margin-left: 10px;
@@ -51,4 +45,8 @@ thead{
 }
 .blu{
     background-color: #B1E5F2;
+}
+footer{
+    color: grey;
+    font-weight: bold;
 }
