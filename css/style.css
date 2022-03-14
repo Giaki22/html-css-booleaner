@@ -51,6 +51,7 @@ ul{
 table{
     border-collapse: collapse;
     font-weight: 300;
+    width: 100%;
 }
 thead{
     background-color: #20A9E5;
