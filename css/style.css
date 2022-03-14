@@ -41,3 +41,14 @@ h1{
 ul{
     padding-left: 10px;
 }
+table{
+    border-collapse: collapse;
+    font-weight: 300;
+}
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+.blu{
+    background-color: #B1E5F2;
+}
