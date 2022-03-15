@@ -41,6 +41,7 @@ main{
 h1{
     margin-bottom: 5px;
     font-weight: bolder;
+    font-size: 40px;
 }
 #pics{
     margin: 0%;
@@ -60,7 +61,7 @@ thead{
 .blu{
     background-color: #B1E5F2;
 }
-footer{
+h3{
     color: grey;
     font-weight: bold;
     margin-left:10px;
